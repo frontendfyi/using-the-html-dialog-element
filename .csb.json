@@ -1,0 +1,14 @@
+{
+  "openFiles": ["src/App.tsx", "src/index.css"],
+  "otherFiles": ["src/visa.tsx"],
+  "activeFile": "src/App.tsx",
+  "template": "vite-react-ts",
+  "options": {
+    "tailwind": true
+  },
+  "dependencies": {
+    "classnames": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
